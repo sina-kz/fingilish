@@ -54,6 +54,8 @@ barack باراک
 barooni بارونی
 baroon بارون
 basic بیسیک
+bashe باشه
+basheh باشه
 bbc بی‌بی‌سی
 beatles بیتلز
 beat بیت
@@ -169,6 +171,7 @@ daram دارم
 darde درد
 dard درد
 dareh داره
+dare داره
 daruoosh داریوش
 david دیوید
 decor دکور
@@ -265,6 +268,7 @@ gucci گوچی
 guitar گیتار
 hacker هکر
 hafez حافظ
+hafte هفته
 haghighatan حقیقتاً
 hajipoor حاجی‌پور
 hajipour حاجی‌پور
@@ -287,6 +291,7 @@ headphones هدفون
 headphone هدفون
 headset هدست
 head هد
+hediye هدیه
 heeva هیوا
 helicopter هلیکوپتر
 hex هگز
@@ -351,6 +356,7 @@ kharatha خراطها
 kharat خراط
 kharratha خراطها
 kharrat خراط
+kharideham خریده ام
 khiali خیالی
 khiyalet خیالت
 khoda خدا
@@ -361,6 +367,7 @@ kohne کهنه
 kollan کلاً
 kombat کمبت
 kon کن
+konin کنین
 kooche کوچه
 kosan کوسن
 kuche کوچه
@@ -379,6 +386,7 @@ london لندن
 lopez لوپز
 loser لوزر
 lost لاست
+lotfan لطفا
 lover لاور
 love لاو
 lucy لوسی
@@ -415,6 +423,7 @@ miley مایلی
 mina مینا
 mind مایند
 min مین
+mishe میشه
 mix میکس
 mobile موبایل
 mojtabaa مجتبی
@@ -443,6 +452,7 @@ naqes ناقص
 naqez ناقض
 narafigh نارفیق
 narafiq نارفیق
+nashe نشه
 navaei نوایی
 navi ناوی
 nav ناو
