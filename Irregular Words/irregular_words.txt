@@ -19,6 +19,7 @@ abdollahzade عبدالله‌زاده
 abdollahzadeh عبدالله‌زاده
 abdolmaleki عبدالملکی
 abdolmalekian عبدالملکیان
+abri ابری
 abs ای‌بی‌اس
 account اکانت
 acemoon آسمون
@@ -93,6 +94,7 @@ artificial آرتیفیشال
 artist آرتیست
 ashegh عاشق
 asheq عاشق
+asheghe عاشق
 ashghal آشغال
 ashqal آشغال
 asimov آسیموف
@@ -906,6 +908,7 @@ morteza مرتضی
 moscow مسکو
 moshk مشک
 mostafa مصطفی
+motalee مطالعه
 mother مادر
 motherboard مادربرد
 motivate مُتیویت
@@ -993,6 +996,7 @@ pharrel فرل
 photograph فوتُگراف
 photoshop فتوشاپ
 php پی‌اچ‌پی
+piaderavi پیاده‌روی
 pizza پیتزا
 plan پلن
 plan پْلَن
