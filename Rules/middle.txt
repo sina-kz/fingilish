@@ -8,7 +8,7 @@ b ب
 ch چ
 ck ک
 d د
-e nothing ع أ ئ
+e nothing ع أ ئ @
 e' ع ئ
 'e ئ ؤ ع
 f ف

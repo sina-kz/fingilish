@@ -20,6 +20,7 @@ abdollahzadeh عبدالله‌زاده
 abdolmaleki عبدالملکی
 abdolmalekian عبدالملکیان
 abri ابری
+aali عالی
 abs ای‌بی‌اس
 account اکانت
 acemoon آسمون
@@ -148,7 +149,6 @@ basheh باشه
 basic بیسیک
 basketball بسکتبال
 battery باتری
-bbc بی‌بی‌سی
 beat بیت
 beatles بیتلز
 beauty بیوتی
@@ -996,7 +996,6 @@ pharrel فرل
 photograph فوتُگراف
 photoshop فتوشاپ
 php پی‌اچ‌پی
-piaderavi پیاده‌روی
 pizza پیتزا
 plan پلن
 plan پْلَن
