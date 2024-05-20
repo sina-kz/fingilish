@@ -11,6 +11,7 @@
 7d سون‌دی
 8d ایت‌دی
 9d ناین‌دی
+aali عالی
 abc ای‌بی‌سی
 abdollah عبدالله
 abdollahi عبداللهی
@@ -20,7 +21,6 @@ abdollahzadeh عبدالله‌زاده
 abdolmaleki عبدالملکی
 abdolmalekian عبدالملکیان
 abri ابری
-aali عالی
 abs ای‌بی‌اس
 account اکانت
 acemoon آسمون
@@ -94,8 +94,8 @@ arrangement ارنجمنت
 artificial آرتیفیشال
 artist آرتیست
 ashegh عاشق
-asheq عاشق
 asheghe عاشق
+asheq عاشق
 ashghal آشغال
 ashqal آشغال
 asimov آسیموف
@@ -276,6 +276,7 @@ check چک
 checkin چکین
 checklist چِکلیست
 cheshmaye چشمای
+chetori چطوری
 chip چیپ
 chocolate چاکلت
 choose چُوز
@@ -500,7 +501,6 @@ docker داکر
 doctor دکتر
 doctora دکترا
 document داکیومنت
-document دُکْیومِنت
 dog داگ
 dom دم
 domain دُومین
@@ -508,6 +508,10 @@ donate دُنیِیت
 donation دونِیشن
 donyam دنیام
 dor دور
+doset دوست
+dost دوست
+doste دوست
+dostet دوستت
 dot دات
 dotamoon دوتامون
 down داون
@@ -520,6 +524,9 @@ drama دراما
 duff داف
 dumbledore دامبلدور
 duplicate دْرَفلیکِیت
+duset دوست
+dust دوست
+dustet دوستت
 dvd دی‌وی‌دی
 dvd دی‌وی‌دی
 dylan دیلان
@@ -705,6 +712,8 @@ hat هت
 hatm حتم
 hatman حتماً
 havalie حوالی
+hayat حیاط
+hayateman حیاطمان
 head هد
 headphone هدفون
 headphones هدفون
@@ -772,11 +781,13 @@ jac جک
 jack جک
 jackson جکسون
 jadidan جدیداً
+jaleb جالب
 james جیمز
 jane جین
 javan جوان
 javanan جوانان
-jaleb جالب
+jazab جذاب
+jazabi جذابی
 jennifer جنیفر
 jesaaratan جسارتاً
 jesaratan جسارتاً
